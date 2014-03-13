@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/hoaproject/Core.git",
-                "reference": "267bcc79854a5ef052cacb0c22f17294595b44d5"
+                "reference": "79800d5f02b6fcd50a693154df8e547cde152eba"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hoaproject/Core/zipball/267bcc79854a5ef052cacb0c22f17294595b44d5",
-                "reference": "267bcc79854a5ef052cacb0c22f17294595b44d5",
+                "url": "https://api.github.com/repos/hoaproject/Core/zipball/79800d5f02b6fcd50a693154df8e547cde152eba",
+                "reference": "79800d5f02b6fcd50a693154df8e547cde152eba",
                 "shasum": ""
             },
             "require": {
@@ -68,7 +68,7 @@
                 "parameter",
                 "protocol"
             ],
-            "time": "2014-02-24 14:40:58"
+            "time": "2014-03-12 20:01:43"
         },
         {
             "name": "hoa/http",
